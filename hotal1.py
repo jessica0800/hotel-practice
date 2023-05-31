@@ -91,4 +91,3 @@ plt.legend()#顯示xy的label
 fig=plt.gcf()#plt.gcf()用來获取当前图片
 fig.set_size_inches(14,10)
 fig.savefig('D:\\hotel\\The cancal persantage for City Hotal vs Resort Hotel.png')
-#每個市場區隔的客戶類型數量
